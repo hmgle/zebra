@@ -70,6 +70,11 @@ zebra_print() ->
                                     {N, C, P, A, D} <- zebra()
     ].
 
+who_own_zebra() ->
+    [data_inx(pos(N, pos(A, data_pos(zebra, fun animal/0))), fun nation/0) ||
+        {N, _C, _P, A, _D} <- zebra()
+    ].
+
 zebra() ->
     [{N, C, P, A, D} ||
             N <- full_perms(5),

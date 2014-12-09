@@ -1,8 +1,8 @@
-Five men of di erent nationality (England, Spain, Japan, Italy, Norway) live in the
-rst ve houses on a street. They all each have a profession (painter, diplomat,
+Five men of different nationality (England, Spain, Japan, Italy, Norway) live in the
+first five houses on a street. They all each have a profession (painter, diplomat,
 violinist, doctor, sculptor), one animal (dog, zebra, fox, snail, horse), and one favorite
-drink (juice, water, tea, coffee, milk), all di erent from the others. Each of the houses
-is painted in a color di erent from all the others (green, red, yellow, blue, white).
+drink (juice, water, tea, coffee, milk), all different from the others. Each of the houses
+is painted in a color different from all the others (green, red, yellow, blue, white).
 
 Furthermore:
 

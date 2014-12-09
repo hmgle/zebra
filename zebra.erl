@@ -1,5 +1,5 @@
 -module(zebra).
--compile(export_all).
+-export([zebra/0, zebra_print/0, who_own_zebra/0]).
 
 %% @spec (List::list(), Ele) -> integer()
 %% @doc Returns the position of `Ele' in the `List'. 0 is returned
